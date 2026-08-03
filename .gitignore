@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+
+# 本地属性（含 SDK 路径）
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
